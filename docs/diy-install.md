@@ -28,11 +28,11 @@ pip install esptool
 
 ## Step 1 — Download the firmware
 
-Download the latest `firmware.bin` from the
-[releases section](https://github.com/francksachet/Domowatch/releases)
-or directly from the repository:
+Download the latest `firmware.bin` directly from the repository:
 
-[📥 Download firmware.bin](../firmware.bin)
+**[📥 Download firmware.bin](https://github.com/francksachet/Domowatch/raw/main/firmware.bin)**
+
+You can also check the [CHANGELOG](../CHANGELOG.md) to see what's new in the current version.
 
 ---
 
