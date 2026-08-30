@@ -1,0 +1,61 @@
+DomoWatch Proprietary License
+Copyright (c) 2026 Franck Sachet. All rights reserved.
+
+TERMS AND CONDITIONS
+
+1. GRANT OF LICENSE
+   Subject to the terms of this license, Franck Sachet ("Author") grants you
+   a non-exclusive, non-transferable, royalty-free license to use the DomoWatch
+   firmware binary ("Software") solely for personal, non-commercial purposes.
+
+2. PERMITTED USES
+   You may:
+   - Install and run the Software on hardware you own or control
+   - Make copies of the Software binary for personal backup purposes
+   - Share the Software binary with other individuals for their personal,
+     non-commercial use, provided this license is included unchanged
+
+3. RESTRICTIONS
+   You may NOT:
+   - Use the Software for any commercial purpose, including but not limited to
+     selling, licensing, or providing paid services based on the Software
+   - Modify, decompile, disassemble, reverse-engineer, or attempt to derive
+     the source code of the Software
+   - Remove or alter any copyright notices, license terms, or attributions
+   - Sublicense, sell, rent, lease, or transfer the Software or any rights
+     therein to any third party for commercial purposes
+   - Use the Software in any product or service offered for sale or as part
+     of a business operation
+
+4. REDISTRIBUTION
+   Redistribution of the unmodified Software binary is permitted provided that:
+   - This license file is included in full and unmodified
+   - No charge is made for the Software itself (reasonable media or
+     distribution costs are acceptable)
+   - The redistribution clearly identifies the original author (Franck Sachet)
+     and the source repository (https://github.com/francksachet/Domowatch)
+
+5. OWNERSHIP
+   The Software is and remains the exclusive property of Franck Sachet.
+   This license does not transfer any ownership rights to you.
+   All rights not expressly granted herein are reserved by the Author.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+   AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. TERMINATION
+   This license is effective until terminated. It terminates automatically if
+   you fail to comply with any term herein. Upon termination, you must destroy
+   all copies of the Software in your possession.
+
+8. GOVERNING LAW
+   This license shall be governed by the laws of France, without regard to
+   conflict of law provisions.
+
+For permissions beyond the scope of this license, contact:
+https://github.com/francksachet
