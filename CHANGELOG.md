@@ -6,6 +6,13 @@ Format: `[version] — date — summary`
 
 ---
 
+## [1.0.2] — November 2026
+
+### Fixed
+- Fix Wi‑Fi problems 
+
+---
+
 ## [1.0.1] — August 2026
 
 ### Added
